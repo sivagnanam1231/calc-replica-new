@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "calc-replica-testing"
-  }
+    "default": "testing-replica-f5da2",
+    "testing": "testing-replica-f5da2"
+  },
+  "targets": {},
+  "etags": {}
 }
